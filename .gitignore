@@ -1,0 +1,13 @@
+##ignore this file##
+target/
+/target/
+*.class
+.idea
+*.iml
+.classpath
+.project
+.settings
+*.jar
+*.rar  
+*.tar  
+*.zip  
